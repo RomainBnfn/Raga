@@ -1,0 +1,101 @@
+H:\[P] Raga\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+H:\[P] Raga\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.exe
+H:\[P] Raga\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.pdb
+H:\[P] Raga\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe
+H:\[P] Raga\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.pdb
+H:\[P] Raga\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.csprojResolveAssemblyReference.cache
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.pdb
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.csprojAssemblyReference.cache
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.exe
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.pdb
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.pdb
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.csprojAssemblyReference.cache
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.csproj.CoreCompileInputs.cache
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.exe
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.pdb
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe.manifest
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.application
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.TrustInfo.xml
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.exe.manifest
+C:\Users\romain\Documents\Cours_ENSC_S5\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.application
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.exe
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.pdb
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe.manifest
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.application
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.exe
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\bin\Debug\ServeurConsole.pdb
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.csprojResolveAssemblyReference.cache
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.TrustInfo.xml
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.exe.manifest
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurRaga\ServeurConsole\obj\Debug\ServeurConsole.application
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\obj\Debug\ServeurConsole.exe
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\obj\Debug\ServeurConsole.pdb
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\bin\Debug\ServeurConsole.exe.manifest
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\bin\Debug\ServeurConsole.application
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\bin\Debug\ServeurConsole.exe
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\bin\Debug\ServeurConsole.pdb
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\obj\Debug\ServeurConsole.csprojResolveAssemblyReference.cache
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\obj\Debug\ServeurConsole.TrustInfo.xml
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\obj\Debug\ServeurConsole.exe.manifest
+H:\[P] Raga\ProjetInfo\ProjetInfo\ServeurV2\ServeurConsole\obj\Debug\ServeurConsole.application
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\bin\Debug\ServeurConsole.exe.manifest
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\bin\Debug\ServeurConsole.application
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\bin\Debug\ServeurConsole.exe
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\bin\Debug\ServeurConsole.pdb
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\obj\Debug\ServeurConsole.csprojAssemblyReference.cache
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\obj\Debug\ServeurConsole.TrustInfo.xml
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\obj\Debug\ServeurConsole.exe.manifest
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\obj\Debug\ServeurConsole.application
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\obj\Debug\ServeurConsole.exe
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV3\ServeurConsole\obj\Debug\ServeurConsole.pdb
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.exe.manifest
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.application
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.exe
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.pdb
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.csprojAssemblyReference.cache
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.TrustInfo.xml
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.exe.manifest
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.application
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.exe
+C:\Users\Romain\Documents\@Cours\!2019-2020 ENSC\Projet Info 1A\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.pdb
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.exe.manifest
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.application
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.exe
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\bin\Debug\ServeurConsole.pdb
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.csprojAssemblyReference.cache
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.TrustInfo.xml
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.exe.manifest
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.application
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.exe
+C:\Users\paull\OneDrive\Documents\Travail\Ecole d'ingé\1A\Informatique\TD\Raga\ServeurV4\ServeurConsole\obj\Debug\ServeurConsole.pdb
+H:\[P] Raga\ServeurV5\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+H:\[P] Raga\ServeurV5\ServeurConsole\bin\Debug\ServeurConsole.exe.manifest
+H:\[P] Raga\ServeurV5\ServeurConsole\bin\Debug\ServeurConsole.application
+H:\[P] Raga\ServeurV5\ServeurConsole\bin\Debug\ServeurConsole.exe
+H:\[P] Raga\ServeurV5\ServeurConsole\bin\Debug\ServeurConsole.pdb
+H:\[P] Raga\ServeurV5\ServeurConsole\obj\Debug\ServeurConsole.csprojResolveAssemblyReference.cache
+H:\[P] Raga\ServeurV5\ServeurConsole\obj\Debug\ServeurConsole.TrustInfo.xml
+H:\[P] Raga\ServeurV5\ServeurConsole\obj\Debug\ServeurConsole.exe.manifest
+H:\[P] Raga\ServeurV5\ServeurConsole\obj\Debug\ServeurConsole.application
+H:\[P] Raga\ServeurV5\ServeurConsole\obj\Debug\ServeurConsole.exe
+H:\[P] Raga\ServeurV5\ServeurConsole\obj\Debug\ServeurConsole.pdb
+H:\[P] Raga\ServeurV6\ServeurConsole\bin\Debug\ServeurConsole.exe.config
+H:\[P] Raga\ServeurV6\ServeurConsole\obj\Debug\ServeurConsole.exe
+H:\[P] Raga\ServeurV6\ServeurConsole\obj\Debug\ServeurConsole.pdb
+H:\[P] Raga\ServeurV6\ServeurConsole\bin\Debug\ServeurConsole.exe.manifest
+H:\[P] Raga\ServeurV6\ServeurConsole\bin\Debug\ServeurConsole.application
+H:\[P] Raga\ServeurV6\ServeurConsole\bin\Debug\ServeurConsole.exe
+H:\[P] Raga\ServeurV6\ServeurConsole\bin\Debug\ServeurConsole.pdb
+H:\[P] Raga\ServeurV6\ServeurConsole\obj\Debug\ServeurConsole.csprojResolveAssemblyReference.cache
+H:\[P] Raga\ServeurV6\ServeurConsole\obj\Debug\ServeurConsole.TrustInfo.xml
+H:\[P] Raga\ServeurV6\ServeurConsole\obj\Debug\ServeurConsole.exe.manifest
+H:\[P] Raga\ServeurV6\ServeurConsole\obj\Debug\ServeurConsole.application

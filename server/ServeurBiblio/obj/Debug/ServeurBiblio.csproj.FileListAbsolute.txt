@@ -1,0 +1,5 @@
+H:\[P] Raga\ServeurRaga\ServeurBiblio\bin\Debug\ServeurBiblio.dll
+H:\[P] Raga\ServeurRaga\ServeurBiblio\bin\Debug\ServeurBiblio.pdb
+H:\[P] Raga\ServeurRaga\ServeurBiblio\obj\Debug\ServeurBiblio.csprojResolveAssemblyReference.cache
+H:\[P] Raga\ServeurRaga\ServeurBiblio\obj\Debug\ServeurBiblio.dll
+H:\[P] Raga\ServeurRaga\ServeurBiblio\obj\Debug\ServeurBiblio.pdb
